@@ -4,6 +4,7 @@
   version: 24d7afa2ad4b79a421403f6f724478bcb7928dde
     # Version of the versioned template of the Catalog Entry
   description: rancher compose desc
+  upgrade_from: ""
     # Description of the versioned template of the Catalog Entry
   questions:
     - variable: "PORT"
